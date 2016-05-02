@@ -1,0 +1,116 @@
+{
+ "Account": {
+  "Username": "",
+  "Password": 0,
+  "Bills": {
+   "Electricity": [
+    {
+     "Month": "w",
+     "Amount": 2,
+     "DeadLine": "2",
+     "Description": "2",
+     "System_Info": {
+      "CreateDate": "22.04.2016",
+      "CreateTime": "11:15:24",
+      "CreateIP": "10.75.2.215"
+     }
+    },
+    {
+     "Month": "a",
+     "Amount": 1,
+     "DeadLine": "1",
+     "Description": "1",
+     "System_Info": {
+      "CreateDate": "22.04.2016",
+      "CreateTime": "17:10:45",
+      "CreateIP": "10.75.2.215"
+     }
+    },
+    {
+     "Month": "a",
+     "Amount": 10,
+     "DeadLine": "11",
+     "Description": "e",
+     "System_Info": {
+      "CreateDate": "29.04.2016",
+      "CreateTime": "17:15:34",
+      "CreateIP": "10.75.2.215"
+     }
+    },
+    {
+     "Month": "r",
+     "Amount": 3,
+     "DeadLine": "3",
+     "Description": "3",
+     "System_Info": {
+      "CreateDate": "29.04.2016",
+      "CreateTime": "17:25:10",
+      "CreateIP": "10.75.2.215"
+     }
+    },
+    {
+     "Month": "r",
+     "Amount": 3,
+     "DeadLine": "3",
+     "Description": "3",
+     "System_Info": {
+      "CreateDate": "29.04.2016",
+      "CreateTime": "17:25:10",
+      "CreateIP": "10.75.2.215"
+     }
+    },
+    {
+     "Month": "r",
+     "Amount": 3,
+     "DeadLine": "3",
+     "Description": "3",
+     "System_Info": {
+      "CreateDate": "29.04.2016",
+      "CreateTime": "17:25:10",
+      "CreateIP": "10.75.2.215"
+     }
+    }
+   ],
+   "Water": [
+    {
+     "Month": "e",
+     "Amount": 10,
+     "DeadLine": "1",
+     "Description": "1",
+     "System_Info": {
+      "CreateDate": "22.04.2016",
+      "CreateTime": "10:19:28",
+      "CreateIP": "10.75.2.215"
+     }
+    }
+   ],
+   "Gas": [
+    {
+     "Month": "a",
+     "Amount": 1,
+     "DeadLine": "1",
+     "Description": "1",
+     "System_Info": {
+      "CreateDate": "22.04.2016",
+      "CreateTime": "10:40:49",
+      "CreateIP": "10.75.2.215"
+     }
+    }
+   ],
+   "Phone": null,
+   "Other": [
+    {
+     "Month": "a",
+     "Amount": 2,
+     "DeadLine": "2",
+     "Description": "2",
+     "System_Info": {
+      "CreateDate": "26.04.2016",
+      "CreateTime": "17:51:16",
+      "CreateIP": "10.75.2.215"
+     }
+    }
+   ]
+  }
+ }
+}
